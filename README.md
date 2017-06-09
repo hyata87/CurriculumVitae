@@ -4,7 +4,8 @@
 
 |key|value|
 |---|-----|
-|Name|矢田 裕基|
+|Name|矢田 裕基（やた ひろき）|
+|Twitter|[@digitaljunky](https://twitter.com/digitaljunky)|
 
 ## スキル SKILLS
 
@@ -12,7 +13,7 @@
 - Java
 - Kotlin
 - Node.js
-- AWS(Lambda, DynamoDB, S3, )
+- AWS(Lambda, DynamoDB, S3, SNS, SQS, EC2)
 - Serverless Framework
 - Spring Boot
 - Unity(C#)
@@ -21,11 +22,12 @@
 
 ### チームラボ株式会社(2012年4月～現在) 
 
-#### Androidアプリ開発
+#### Androidアプリ
 
 - アパレル系商品推薦検索アプリ (Android, Kotlin)
 - フレーム加工カメラアプリ (Android, Kotlin, AWS S3)
 - 通信量ゲーム風可視化アプリ (Android, Java)
+- 活動量計連携ヘルスケア情報可視化アプリ (Android, Java)
 - [鯉のぼりARアプリ](http://www.team-lab.com/yamamotokeiji2015) (Unity)
 
 #### イベント・サイネージシステム
@@ -44,6 +46,7 @@
 ### 興味領域
 
 - UI
+- 創作意欲
 
 ## 学歴 EDUCATION
 
